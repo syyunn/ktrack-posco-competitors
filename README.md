@@ -1,4 +1,12 @@
-# ktrack-posco-competitors
+# Section 232 by Countries
+
+
+| Countries | Quota | Tariff |
+| :--- | :---| :---|
+| Canada, Mexico | None| None | 
+
+
+# Steel Exportersposco-competitors
 List up POSCO's competitors in U.S. steel market
 
 ## Template
