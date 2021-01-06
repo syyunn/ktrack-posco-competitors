@@ -8,6 +8,8 @@ exports-{CTN}.pdf
 ## Canada 
 https://legacy.trade.gov/steel/countries/pdfs/2017/annual/exports-canada.pdf
 
+## Mexico
+https://legacy.trade.gov/steel/countries/pdfs/imports-Mexico.pdf
 
 ## Japan 
 https://legacy.trade.gov/steel/countries/pdfs/2017/annual/exports-japan.pdf
