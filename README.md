@@ -24,3 +24,5 @@ ArcelorMittal - Canada, Mexico, Brazil
 Sumitomo Corp of America (In conjunction with Nippon Steel; a.k.a SCOA) - Japan
 
 TECHINT ORGANIZATION - Argentina (NO lobbying report-ld2)
+
+Kobe Steel - BURSON COHN & WOLFE (a.k.a Burson-Marsteller; FARA)
