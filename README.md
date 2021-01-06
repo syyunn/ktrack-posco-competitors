@@ -9,6 +9,10 @@
 | Korea | 70% | None |
 | Japan | None| 25% |
 
+
+# LD2 Data Range: 2017.1.1 ~ Current
+Public Comments/Hearing by the Industry and Security Bureau on 04/26/2017.
+
 # Steel Exportersposco-competitors
 List up POSCO's competitors in U.S. steel market
 
