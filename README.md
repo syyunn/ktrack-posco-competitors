@@ -11,6 +11,7 @@
 
 
 # LD2 Data Range: 2017.1.1 ~ Current
+Trump Presidency: since 2017
 Public Comments/Hearing by the Industry and Security Bureau on 04/26/2017.
 
 # Steel Exportersposco-competitors
