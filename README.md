@@ -4,7 +4,10 @@
 | Countries | Quota | Tariff |
 | :--- | :---| :---|
 | Canada, Mexico | None| None | 
-
+| Brazil | 70% (but Semi-finished 100%)| None| 
+| Argentina | 100% | None |
+| Korea | 70% | None |
+| Japan | None | 25% |
 
 # Steel Exportersposco-competitors
 List up POSCO's competitors in U.S. steel market
