@@ -11,5 +11,8 @@ https://legacy.trade.gov/steel/countries/pdfs/2017/annual/exports-canada.pdf
 ## Mexico
 https://legacy.trade.gov/steel/countries/pdfs/imports-Mexico.pdf
 
+## Brazil
+https://legacy.trade.gov/steel/countries/pdfs/2017/annual/exports-brazil.pdf
+
 ## Japan 
 https://legacy.trade.gov/steel/countries/pdfs/2017/annual/exports-japan.pdf
