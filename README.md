@@ -20,3 +20,5 @@ https://legacy.trade.gov/steel/countries/pdfs/2017/annual/exports-japan.pdf
 ## Main Players
 
 ArcelorMittal - Canada, Mexico, Brazil
+
+Sumitomo Corp of America (In conjunction with Nippon Steel; a.k.a SCOA) - Japan
